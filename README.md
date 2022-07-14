@@ -2,7 +2,7 @@
 ### Desenvolvedor Full-Stack SpringBoot|.Net|React|Angular 
   <div align="center">
   <a href="https://github.com/MatheusRGPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRGPereira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRGPereira&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRGPereira&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <br/>
