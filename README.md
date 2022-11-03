@@ -9,7 +9,8 @@
 
 - 😄 Pronome: ele/dele
 - ✔️ Bootcamp Generation JAVA|Spring|React -Conluido!!
-- 🛠️ Bootcamp Unimed DIO C#|.NET|Angular -Concluido!
+- ✔️ Bootcamp Unimed DIO C#|.NET|Angular -Concluido!!
+- ✔️ Bootcamp Pottencial DIO C#|.NET -Concluido!!
 - 🛠️ Analise e desenvolvimento de sistemas FAM - Em andamento!!
 
 
