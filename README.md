@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Matheus Rodrigues 👋
-### Desenvolvedor Full-Stack SpringBoot|.Net|React|Angular 
+### Desenvolvedor Full-Stack .Net| SpringBoot| Angular| React 
   <div align="center">
   <a href="https://github.com/MatheusRGPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRGPereira&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
@@ -11,17 +11,17 @@
 - ✔️ Bootcamp Generation JAVA|Spring|React -Conluido!!
 - ✔️ Bootcamp Unimed DIO C#|.NET|Angular -Concluido!!
 - ✔️ Bootcamp Pottencial DIO C#|.NET -Concluido!!
-- 🛠️  Bootcamp Codigo do futuro Gama-Academy .Net|Angular - Em Andamento!!
+- ✔️  Bootcamp Codigo do futuro Gama-Academy .Net|Angular -Concluido!!
 - 🛠️ Analise e desenvolvimento de sistemas FAM - Em andamento!!
 
 
 <div style="display: inline_block"><br><br>
-  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">    
-  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">    
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">    
-  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">    
+  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">    
+  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
-  <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">   
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">   
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
