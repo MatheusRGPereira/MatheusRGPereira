@@ -12,7 +12,8 @@
 - ✔️ Bootcamp Unimed DIO C#|.NET|Angular -Concluido!!
 - ✔️ Bootcamp Pottencial DIO C#|.NET -Concluido!!
 - ✔️  Bootcamp Codigo do futuro Gama-Academy .Net|Angular -Concluido!!
-- 🛠️ Analise e desenvolvimento de sistemas FAM - Em andamento!!
+- ✔️ Analise e desenvolvimento de sistemas FAM - -Concluido!!
+- 🛠️ Pós graduação Go Expert Full Cycle - Em Andamento
 
 
 <div style="display: inline_block"><br><br>
