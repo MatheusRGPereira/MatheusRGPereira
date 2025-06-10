@@ -19,6 +19,7 @@
 <div style="display: inline_block"><br><br>
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">    
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-plain.svg">
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">    
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center"  height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
